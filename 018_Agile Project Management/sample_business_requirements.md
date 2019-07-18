@@ -2,15 +2,17 @@
 
 ## Executive Summary
 
-*Your executive summary should be pretty brief, under 3 paragraphs and should provide a concise summary of the purpose and contents of the rest of the document.  Explain to the reader what they will get from this document.*
+The Exeter Web Application should be able to make connections between multiple students with disparate expertise, when working on projects. As the project progresses, more expertise may be referred to for proposed involvement.
 
 ## Business Objectives
+
+This project will prove invaluable in pooling together, anticipated intellectual resources for any project. The goal is to minimize the search for capable person and expand technilogical
 
 *Business objectives should offer the details for why the project is important.  Outline the goals of the project int he sense of the value it will bring and set expectations.  Keep your objectives measurable to avoid confusion in whether or not they have been met.*
 
 ## Background
 
-*Provide any relevant background information regarding why this project is being initiated*
+This project would facilitate students in engaging and connecting with other students, thus opening their minds to expand their network.
 
 ## Scope
 
@@ -18,8 +20,8 @@
 
 ## Functional requirements
 
-*This is where most of the detail should reside.  describe all of the required capabilities of the system in detail.  It is helpful to articulate features in terms of user capabilities.  Keep in mind that the features will be designed and developed off of these descriptions, so if you leave anything up to interpretation, you run the risk of the results not meeting your expectations.  You can also assume capabilities that are not mentioned here will not be included in the project, no matter how common or obvious they are.  You may want to break our subsections for each major feature to make the document more organized.*
-
+The development of this project should involve the following:
+Students should have the option to create an Avatar for privacy; the student should be able to list their area of expertise and secondary strengths. Students must be able to fill-in identifying fields in their files; The students will need the ability to create online "Avatars" to facilitate privacy; a category list with sub-categories must be developed to identify projects elements that may be required; there should be a list of potentially available candidates who may be interested, to select from; The user should be able to input requirments for projects, allowing the system to provide more options.
 
 ## Personnel requirements
 
