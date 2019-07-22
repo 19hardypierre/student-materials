@@ -6,9 +6,7 @@ The Exeter Web Application should be able to make connections between multiple s
 
 ## Business Objectives
 
-This project will prove invaluable in pooling together, anticipated intellectual resources for any project. The goal is to minimize the search for capable person and expand technilogical
-
-*Business objectives should offer the details for why the project is important.  Outline the goals of the project int he sense of the value it will bring and set expectations.  Keep your objectives measurable to avoid confusion in whether or not they have been met.*
+This project will prove invaluable in pooling together, anticipated intellectual resources for any project. The goal is to minimize the search for capable persons and expand technological networking.
 
 ## Background
 
@@ -24,9 +22,7 @@ The development of this project should involve the following:
 Students should have the option to create an Avatar for privacy; the student should be able to list their area of expertise and secondary strengths. Students must be able to fill-in identifying fields in their files; The students will need the ability to create online "Avatars" to facilitate privacy; a category list with sub-categories must be developed to identify projects elements that may be required; there should be a list of potentially available candidates who may be interested, to select from; The user should be able to input requirments for projects, allowing the system to provide more options.
 
 ## Personnel requirements
-
-*In this section you may want to describe the composition of the team, do you need dedicated development?  how many people?  How about design or QA?  Think about what personnel is required to make this project a success, and place your recommendations here.*
-
+The only requirements will be for each student to provide a profile in order to network their expertise.
 ## Delivery schedule
 
 *It's often helpful to break a project out into phases or milestones.  In this section list out any logical checkpoints where you would like to see the project demonstrated to ensure that expectations are being met.  Describe the phase, and the functional requirements required for completion.*
